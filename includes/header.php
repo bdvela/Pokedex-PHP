@@ -8,3 +8,4 @@
     <link rel="stylesheet" href="styles\style.css">
 </head>
 <body>
+    <h1><a href="index.php">Pokedex</a></h1>
