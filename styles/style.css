@@ -1,0 +1,55 @@
+.card {
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    padding: 3%;
+    background-color: rgb(223, 223, 223);
+    border-radius: 20px;
+    height: 100px;
+    max-height: 100%;
+}
+
+.name {
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    top: 10px;
+    left: 10px;
+}
+
+.ability {
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 10px;
+}
+.chip {
+    padding: 0 10px;
+    border-radius: 25px;
+    background-color: #f1f1f167;
+}
+
+.img {
+    position: relative;
+    left: 50%;
+    display: block;
+    width: auto;
+    max-width: 50%;
+}
+
+.rayo {
+    background-color: rgba(233, 222, 63, 0.8);
+}
+
+.agua {
+    background-color: rgb(77, 212, 230, 0.8);
+}
+
+.fuego {
+    background-color: rgb(218, 69, 69, 0.8);
+}
+
+.tierra {
+    background-color: rgb(156, 112, 61, 0.8);
+}
